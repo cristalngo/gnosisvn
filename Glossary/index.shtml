@@ -1,0 +1,106 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>  
+    <!--#include virtual="/Shared/subInclude.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h3>PHỤ LỤC</h3>
+                <hr />
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>A</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="A/arcanum.shtml">Arcanum</a></li>
+                    <li class="list-unstyled"><a href="A/alchemy.shtml">Alchemy</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>B</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="B/bay-coi-vu-tru-lon.shtml">Bảy không gian vũ trụ lớn</a></li>
+                    <li class="list-unstyled"><a href="B/BonDrukpa.shtml">Trường phái Bon và Drukpa</a></li>
+<<<<<<< HEAD
+                    <li class="list-unstyled"><a href="B/Brahmadanda-Brahmanadi-Brahman.shtml">Brahmadanda,  Brahmanadi, và Dây Mạch Brahman</a></li>
+                    
+=======
+>>>>>>> 1b832a10a2e756257afa87552a170fac453430cc
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>Đ</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="Đ/Đại-bạch-hội-quán.shtml">Bạch Đại Hội Quán</a></li>
+                    <li class="list-unstyled"><a href="Đ/Đmtt.shtml">Đức Mẹ Thần Thánh</a></li>          
+                    <li class="list-unstyled"><a href="Đ/duc-thanh-linh.shtml">Đức Thánh Linh</a></li>          
+                </ul>                
+
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>E/Ê</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="E/ego.shtml">Ego là gì</a></li>
+                    <li class="list-unstyled"><a href="E/elohim.shtml">Elohim</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>J</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="J/Jiakhin-Boaz.shtml">Hai trụ Jiakhin và Boaz</a></li>
+                    <li class="list-unstyled"><a href="J/Jinn.shtml">Trạng thái Jinn</a></li>
+                </ul>
+
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>K</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="K/Kito.shtml">Kitô</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>Q</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="Q/quan-danh.shtml">Lễ Quán Đảnh</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>S</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="S/Samadhi.shtml">Samadhi</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>T</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="T/tinh-dich.shtml">Tinh dịch</a></li>
+                    <li class="list-unstyled"><a href="T/Tu-truong-goc-mui.shtml">Từ trường gốc mũi</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

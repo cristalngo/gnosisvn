@@ -1,0 +1,36 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>LỄ QUÁN ĐẢNH</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 5th June 2016</h5>
+                <br />
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <blockquote>
+                    <p>
+                        Quán đảnh đã được định nghĩa một cách khái quát là “hành động hay nghi thức ban ý nghĩa tôn giáo (thánh phước) cho những đồ vật, nơi chốn, hoặc con người; thường bằng năng lực và sự thánh thiện” . Trong Phật giáo, quán đảnh đã được miêu tả như một nghi thức biến đổi một pho tượng hoặc một ngôi tháp từ một vật thể thế tục thành tinh tủy của một đức Phật (Bentor 1997). Vật được quán đảnh không chỉ có những pho tượng và tháp mà còn bao gồm cả những tranh, sách, và những đồ vật khác mang ý nghĩa tượng trưng. Abhiṣeka, từ tiếng Phạn này thường được dịch là “consecration—quán đảnh”, mở rộng ý nghĩa này bao gồm cả vương vị (rājābhiṣeka) và chỉ định cho những hành động hay nghi thức mà đặc biệt là việc rưới hoặc xoa bằng nước thánh. <a href="http://thuvienhoasen.org/a13032/quan-danh-abhi-eka-donald-k-swearer-thanh-hoa-dich">- thuvienhoasen.org</a>
+                    </p>
+                </blockquote>
+               </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><h4>Trở về phụ lục</h4></span>
+                <p class="glyphicon glyphicon-chevron-left">Trở về phụ lục</p>
+            </div>
+        </div>
+    </div>
+
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

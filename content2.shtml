@@ -1,0 +1,37 @@
+﻿<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/include.html" -->
+</head>
+<body>
+    <!--#Include virtual="/Shared/subHeader.html" -->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-12 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h3>HÔN NHÂN HOÀN HẢO</h3>
+                <h4>Tác giả: Samael Aun Weor</h4>
+
+
+                <p>
+                    Hôn Nhân Hoàn Hảo là một cuốn sách đặc biệt vì mặc dù thông tin này không phải là mới và không phải là sáng kiến của tác giả, nhưng đây là lần đầu tiên trong hàng nghìn năm các bí quyết về tình yêu, tôn giáo, và linh hồn được xuất bản (năm 1950).
+                    <br />
+                    <hr />
+                   
+
+                </p>
+
+                <!--#include virtual="/content.html" -->
+            </div>
+            </div>
+        </div>
+   
+    <!--#include virtual="/Shared/footer.html" --> 
+</body>
+</html>

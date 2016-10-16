@@ -1,0 +1,29 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>TINH DỊCH</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 7th June 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Theo đạo bí truyền, từ "tinh dịch" là một loại khí lục.  Ở trong cơ thể của người đàn ông, năng lực này là sức sống trong tinh trùng vật chất.  Mặc dù phụ nữ không ra nước tinh trùng vật chất như đàn ông, nhưng cơ thể nữ cũng có một loại năng lực tương tự.
+                </p>
+                
+            </div>
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

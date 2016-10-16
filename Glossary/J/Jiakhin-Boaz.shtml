@@ -1,0 +1,36 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>HAI TRỤ JIAKHIN VÀ BOAZ</h1>
+                <h5>3rd June 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Hai trụ đền thờ tượng trưng cho hai cột phải và trái của cây sự sống kabbalah.  Ví dụ: trụ bên trái, Jiakhin, tượng trưng cho Hod và thân tinh tú dương. Boaz tượng trưng cho Netzach và thân tư tưởng dương.
+                </p>
+                <img src="../../images/Glossary/H/joachinandboaz.jpg" class="img-responsive-center" width="500" />
+                <br />
+                <label class="tex-center">
+                    Ðoạn ông dựng hai trụ ấy nơi tiền đình của Ðền Thờ. <br />Ông dựng một trụ bên phải và đặt tên là Gia-kin [Jiakhin];
+                    <br />Ông dựng một trụ bên trái và đặt tên là Bô-a [Boaz]. <br />
+                    (I Các Vua 7:21, Kinh Thánh)
+                </label>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

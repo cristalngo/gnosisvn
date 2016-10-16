@@ -1,0 +1,69 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>BẢY KHÔNG GIAN VŨ TRỤ LỚN</h1>
+                <br />
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+
+                <p>
+                    Ở chương thứ nhất của sách Hôn Nhân Hoàn Hảo, thầy Samael Aun Weor nói rằng vợ, chồng phải có sự đồng cảm trong cả bảy không gian vũ trụ lớn. Theo thầy giải thích thì việc này có nghĩa là người ta phải hợp nhau trong cả 5 không gian sau:
+                </p>
+
+                <ol class="list-group">
+                    <li>vật chất</li>
+                    <li>năng lực</li>
+                    <li>cảm xúc (hay còn gọi là tinh tú)</li>
+                    <li>tư tưởng</li>
+                    <li>ý chí</li>
+                </ol>
+
+
+
+                <p>
+
+                    Khi nói về những không gian này, bản gốc dùng từ <b>planos</b>, dịch theo nghĩa đen là mặt phẳng.  Ở đây,  ta dịch từ này là không gian.  Cả năm không gian ở trên chính là năm Sephiroth đầu của cây sự sống Kabbalah.  Vậy thì không gian thứ 6 và 7 là gì?
+                </p>
+                <p>
+                    <img src="../../images/Ch1/7_coi_vu_tru.png" alt="" class="img-responsive-center" width="370">
+                    <label class="tex-center">Cây sự sống (Kabbalah)</label>
+                </p>
+                <p>
+                    Nếu chúng ta tính cõi vật chất là một thì phải thêm hai ephiroth Geburah và Kheseđ thì mới được đủ bảy cõi.
+                </p>
+                <p>
+                    Một cách khác, vì cõi Vật Chất là không gian ba chiều, cõi Năng Lực được tính là không gian thứ tư và theo đó cõi ý chí là không gian thứ bảy của bảy không gian vũ trụ lớn.  Theo cách tính này, chú ý không nên nghĩ rằng các cõi trời ở trên cõi vật chất là không gian 1 chiều vì như thế không đúng.  Có thể hiểu một cách hình tượng hóa rằng, những cõi ở dưới nằm ở trong những cõi ở trên.  Ví dụ, cõi năng lực (Yesod) là không gian 4 chiều, bao gồm 3 chiều của thế giới vật chất, cộng thêm 1 chiều năng lực nữa.
+                </p>
+                <p>
+                    Vậy thì chúng ta có thể nói rằng những cõi ở trên “lớn hơn”.  Tuy nhiên, khái nhiệm trong và ngoài thường được dùng để nói về không gian 3 chiều.  Khi áp dụng ngôn ngữ này để mô tả các cõi vũ trụ thì ý tưởng này không chính xác.  Những cõi trời như cõi tinh tú, cõi tư tưởng, và cõi ý chí,chỉ có thể tìm thấy ở trong chính bản thân ta, tức là ở trong tâm, chứ không thể tìm được ở ngoài.
+                </p>
+                <blockquote>
+                    <p>
+                        <b>20 </b>Khi ấy những người Pha-ri-si hỏi Ngài khi nào vương quốc Ðức Chúa Trời sẽ đến, Ngài trả lời họ và nói, “Vương quốc Ðức Chúa Trời không đến bằng những gì có thể quan sát được. <b>21 </b>Người ta cũng không thể nói, ‘Này’, nó ở đây,’ hoặc ‘Kìa, nó ở đó,’ vì này, vương quốc Ðức Chúa Trời ở trong các ngươi.” <br />
+                        <i>(Kinh Thánh, Lu-ca 17:20-21)</i>
+                    </p>
+
+                </blockquote>
+                <hr class="link-effect" />
+                <p>
+                    Sách tham khảo: <a href="https://read.amazon.com/kp/embed?asin=B007TLH8EO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_RRTXwb1Q5G6DC">Esoteric Philosophy of Love and Marriage – Dion Fortune</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

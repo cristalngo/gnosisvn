@@ -1,0 +1,26 @@
+﻿<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/include.html" -->
+</head>
+<body>
+    <!--#include virtual="/Shared/header.html" -->
+    <!--#include virtual="about.html" -->
+   
+        
+      
+              <!--#include virtual="/content.html" -->
+          
+
+
+
+    <!--#include virtual="news.html" -->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

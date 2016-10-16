@@ -1,0 +1,29 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>ARCANUM: ĐỊNH NGHĨA</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 5th June 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Từ arcana là số nhiều của arcanum, nghĩa là “bí ẩn sâu thằm”.  Đối với những nhà giả kim thuật thời Trung Cổ, arcanum là bí ẩn của tự nhiên.  –<a href="http://tarot.vn/bo-22-la-chinh-trong-tarot/">tarot.vn</a>
+                </p>
+                
+            </div>
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

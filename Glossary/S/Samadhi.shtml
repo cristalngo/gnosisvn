@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>SAMADHI</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 3<sup>rd</sup> October 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Kinh Phật hay dịch từ Samadhi (tiếng Phạn) là định.  Con người thường nhập vào trạng thái Samadhi trong thiền hoặc thậm chí khi cơ thể vật chất đang ngủ. Tuy nhiên Samadhi có nhiều loại và cũng có thể đạt được khi cơ thể đang tỉnh. Trong trạng thái Samadhi, mặc dù cơ thể rất thả lỏng nhưng khác với trạng thái ngủ bình thường, năng lực tâm linh chạy rất mạnh vào các cơ thể ẩn, làm cho nhận thức rõ hơn cả trạng thái tỉnh.
+
+
+                </p>
+                <p>
+                    Trong Yoga Sutra của Patanjali, có tám bước nhập định (samadhi) như sau:
+
+                </p>
+                <ol class="list-group">
+                    <li>
+                        <p><b>Yama (Giữ giới)</b>: Những việc xấu phải tránh để có cuộc sống tích cực cho việc tu tập. Bước này gắn liền với năm giới của Phật giáo.</p>
+                    </li>
+                    <li>
+                        <p><b>Niyama (Làm việc thiện)</b>: Những việc tốt phải tập như học đạo, giữ cho con người trong sạch, và duy trì một tinh thần tích cực khi gặp khó khăn.</p>
+
+                    </li>
+                    <li>
+                        <p>
+                            <b>Asana</b>: tư thế cơ thể thả lỏng, không căng thẳng.
+                        </p>
+                    </li>
+                    <li>
+                        <p><b>Pranayama (Khí công)</b> : điều hòa năng lực cơ thể và tâm hồn, dùng năng lực để điều chỉnh tâm.</p>
+                    </li>
+                    <li>
+                        <p><b>Pratyahara</b>: Rút nhận thức ra khỏi các giác quan của cơ thể vật chất.</p>
+                       
+                    </li>
+                    <li>
+                        <p><b>Dharana (Tập Trung vào đối tượng)</b>: Tập trung vào đối tượng thiền.</p>
+                       
+                    </li>
+                    <li>
+                    <p><b>Dhyana (Nhận thức về đối tượng)</b>: Quan sát đối tượng thiền để hiểu sâu hơn. Sau khi đạt được sự tập trung (Dharana) thì phải thả lỏng tập trung một chút để có thể nhận biết khi ngộ ra hiểu biết về đối tượng.</p>
+                  </li>
+
+                    <li> 
+                        <p><b>Samadhi (Nhập Định)</b>: Trạng thái này không cứng như Dharana; trong khi định, tâm tập trung một cách tự nhiên hoặc có thể nói là hòa nhập luôn vào đối tượng.</p>
+                       
+                    </li>
+
+
+
+                </ol>
+                <blockquote>
+                    <p>
+                        “Định không phải một trạng thái mơ hồ, đó là một trạng thái siêu việt phi thường, với tâm trong rõ một cách tuyệt đối.”
+                    (The Elimination of Satan's Tail - Samael Aun Weor)
+                    </p>
+                </blockquote>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

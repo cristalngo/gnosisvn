@@ -1,0 +1,35 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>ĐỨC MẸ THẦN THÁNH</h1>
+                <h5>1st June 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Đức Mẹ Thần Thánh là năng lực của vũ trụ (tiếng Phạn: prakriti). Năng lực này có khả năng tạo ra và cũng có thể hủy diệt tất cả mọi thứ.  Năng lực này không có hình tướng nhất định nhưng được các tôn giáo tượng trưng bằng nhiều hình tướng khác nhau để giúp chúng ta hiểu. Tất cả các nữ thần của các tôn giáo lớn đều có thể được coi như là những avatar của Đức Mẹ Thần Thánh.  Mỗi hình dạng thể hiện một phương diện khác nhau.  Khi thờ Đức Mẹ thần thánh, ta nên chọn một hình dạng phù hợp để  giúp cho bản thân cảm nhận và nuôi dưỡng tình cảm từ bi.
+                </p>
+                <img src="../../images/Glossary/Đ/Đmtt/1.jpg" class="img-responsive-center" width="700"/>
+                <p>
+                    Năng lực tình yêu của đức Mẹ Thần Thánh không chỉ là năng lực ở ngoài vũ trụ mà còn là một loại năng lực ở trong mỗi con người chúng ta. Tức là, mỗi cá nhân đều có Mẹ Thần Thánh của riêng mình.  Giống như Đức Mẹ ở ngoài vũ trụ, Đức Mẹ của mỗi cá nhân cũng không có hình dạng nhất định nhưng có khả năng thể hiện dưới nhiều hình dạng khác nhau. 
+                </p>
+                <img src="../../images/Glossary/Đ/Đmtt/2.jpg" class="img-responsive-center" width="400" /><br />
+                <label class="tex-center">Nữ thần Kali (Ấn Độ giáo) là một trong những avatar của đức Mẹ Thần Thánh cá nhân có khả năng giết các ego.</label>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

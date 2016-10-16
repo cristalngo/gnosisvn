@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>TRƯỜNG PHÁI BON VÀ DRUKPA</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 10th October 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Trong sách Hôn Nhân Hoàn Hảo và một số sách khác nữa, thầy Samael có viết rằng những người thuộc phái mật tông Bon và Drukpa tập phép thuật đen.  Trong bài viết này, chúng ta tìm hiểu sâu hơn về việc này.
+                </p>
+                <h2>
+                    Về trường phái Drukpa
+                </h2>
+                <blockquote>
+                    <p>
+                        Từ druk (tiếng Tây Tạng) là con rồng và chữ pa là người.  Từ này có thể hiểu theo nhiều ý nghĩa khác nhau. Do đó, chúng ta không nên nghĩ rằng tất cả các trường phái mật tông có chữ “Drukpa" trong tên đều là hội phù thủy đen.
+
+                        Năm 1387, với những lý lẽ công bằng, người cải cách Tây Tạng, Thầy Tsong Khapa, đã thu gom và đốt hết tất cả các sách ma thuật mà thầy tìm thấy. Kết quả là một số Lạt Ma không hài lòng với việc này đã liên kết với một số thầy theo đạo Bon, là đạo của dân tộc nguyên thuỷ, dấn thân vào các nghi lễ phép thuật đen ghê tởm nhất. Ngày nay, hội này là một trường phái phép thuật đen rất mạnh ở vùng Sikkim, Bhutan, và Nepal.
+                        (Samael Aun Weor - Cách Mạng Beelzebub)
+                    </p>
+                </blockquote>
+                <p>
+                    Trường phái Gnosis của thầy Samael Aun Weor đề cao Đức Đa-lai Lạt-ma.  Về Đức Đa-lai Lạt-ma thứ 14, thầy Samael nói:
+                </p>
+
+                <blockquote>
+                    <p>
+                        Ngài là một người có dương thân thực sự, là một cá nhân hiểu biết bản thân mình một cách sâu sắc.
+
+                        (Nguồn: <a href="http://gnosticteachings.org/lectures-by-samael-aun-weor/3379-a-meeting-with-the-dalai-lama.html">Gnosticteachings</a>)
+                    </p>
+                </blockquote>
+                <img src="../../images/Glossary/B/BonDrukpa/Dalalama14.jpg" class="img-responsive-center" width="400" /><br />
+                <label class="tex-center">
+                    Đức Đa-lai Lạt ma thứ 14 bên cạnh Đức Pháp Vương Gyalwang Drukpa thứ 12
+                </label>
+
+
+                <p> Đức Đa-lai Lạt-ma đời thứ 14 chính là người công nhận thầy Jigme Pema Wangchen là hậu duệ đời thứ 12 của Pháp Vương Gyalwang Drukpa khi Đức Pháp Vương mới chỉ có ba tuổi<a href="#f1" style="scroll"><sup>1</sup></a>.  Dựa vào niềm tin của Đức Đa-lai Lạt-ma, chúng ta kết luận rằng trường phái Drukpa của Pháp Vương Gyalwang Drukpa đời thứ 12 không phải là hội phép thuật đen thầy Samael đã mô tả trong hai sách Hôn Nhân Hoàn Hảo và Cách Mạng Beelzebub.</p>
+                <h2>Về trường phái Bon</h2>
+
+
+                <blockquote>
+                    <p>
+                        Hôn Nhân Hoàn Hào là sách đầu tiên của thầy Samael, được viết vào năm 1950.  Vào thời điểm này, thầy dựa vào thông tin từ sách của một tác giả khác để khẳng định rằng trường phái Bon là phép thuật đen.  Một vài năm sau đó, thầy đã tự mình tìm hiểu trường phái Bon và kết luận rằng phương pháp đó, mặc dù có một số phương pháp mạo hiểm, nhưng không thuộc loại “phép thuật đen". (Nguồn: <a href="http://gnosticteachings.org/glossary/b/2031-bons.html">Gnosticteachings</a>)
+                    </p>
+                </blockquote>
+                <hr />
+                <p>
+                    <b>Ghi chú: </b>
+
+                </p>
+                <p id="f1"><sup>1</sup><a href="http://www.drukpa.org/index.php/en/drukpa-order/56-biographies/my-gurus/268-his-holiness-the-dalai-lama">http://www.drukpa.org/index.php/en/drukpa-order/56-biographies/my-gurus/268-his-holiness-the-dalai-lama</a></p>
+
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

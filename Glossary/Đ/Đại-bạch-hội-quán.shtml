@@ -1,0 +1,32 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>BẠCH ĐẠI HỘI QUÁN</h1>
+                <br />
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <img src="../../images/Glossary/Đ/Đại-bạch-hội-quán.jpg" class="img-responsive-center" width="700" /><br />
+                <label class="tex-center">Ảnh Minh Họa: Tu viện 10000 Đức Phật, Hong Kong</label>
+                <p>
+                    Trong sách của thầy Samael từ “Bạch Đại Hội Quán” bao gồm tất cả các sự phụ, đạo sĩ, đặc biệt là các thầy ở trên cõi trời. Bạch Đại Hội Quán dẫn đường cho các tôn giáo trên thế giới nhưng không thuộc về bất kỳ tổ chức nào ở trong cõi vật chất.                
+                </p>
+            </div>
+
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

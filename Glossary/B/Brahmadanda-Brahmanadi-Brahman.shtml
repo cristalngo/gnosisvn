@@ -1,0 +1,91 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>BRAHMADANDA, BRAHMANADI VÀ DÂY MẠCH BRAHMAN</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 16th October 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Ba từ này liên quan đến nhau và đánh vần gần giống nhau nhưng có ý nghĩa khác nhau.
+                </p>
+
+                <h2> Brahmadanda:</h2>
+                <br />
+                <blockquote>
+                    <p>
+                        Tín đồ đạo Bà-la-môn dùng từ Brahmadanda hoặc Gậy Của Brahma để chỉ cột sống.  Cây gậy tre bảy đốt mà các yogi Ấn Độ cầm cũng tượng trưng cho Brahmadanda.
+                        (Samael Aun Weor, <a href="http://www.gnosis-samaelaunweor.org/portfolio-item/libro-rosea-ignea/">Igneous Rose</a>)
+                    </p>
+                </blockquote>
+                <img src="../../images/Glossary/B/Brahmadanda-Brahmanadi-Brahman/Brahmadanda.jpg" class="img-responsive-center" /><br />
+                <label class="tex-center">
+                    Cột sống
+                </label>
+                <h2> Brahmanadi:</h2>
+                <br />
+                <blockquote>
+                    <p>
+                        Brahmanadi, hay con gọi là canalis centralis (tiếng Latin), tồn tại suốt chiều dài tủy sống.  Kundalini đi lên ở trong Brahmanadi.  Tất cả <a href="#f1" style="scroll">bảy cơ thể<sup>1</sup></a> của chúng ta đều có một tủy sống và Brahmanadi riêng.”  (Samael Aun Weor, Kundalini Yoga)
+                    </p>
+                </blockquote>
+
+                <blockquote>
+                    <p>
+                        “Trong Sushumna <a href="#f2" style="scrolls">nadi<sup>2</sup></a> có một nadi gọi là Vajra.  Chitra Nadi hay còn gọi là Brahmanadi, là  một đường mạch siêu nhỏ nằm ở trong Vajra Nadi.  Kundalini, khi thức tỉnh, đi qua Chitra Nadi.” (Swami Sivananda, Kundalini Yoga<a href="#f3" style="scroll"><sup>3</sup></a>)
+                    </p>
+                </blockquote>
+                <img src="../../images/Glossary/B/Brahmadanda-Brahmanadi-Brahman/nadis.jpg" class="img-responsive-center" width="500" /><br />
+                <label class="tex-center">
+                    Sushuma, Vajra nadi và Brahmanadi
+                </label>
+                <br />
+                <h2> Dây Mạch Brahman</h2>
+                <br />
+                <blockquote>
+                    <p> ...kinh sống cùng với hai đường kinh bên cạnh là Dây Mạch Brahman.” (Samael Aun Weor - Khóa  Zodiac)</p>
+                </blockquote>
+
+
+
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <hr />
+                <p><b>Ghi chú</b></p>
+                <p id="f1">
+                    <sup>1</sup><i>Bảy cơ thể là</i>
+                </p>
+
+                <ol class="list-group">
+                    <li>cơ thể vật chất</li>
+                    <li>cơ thể năng lực</li>
+                    <li>cơ thể tinh tú (là cơ thể cảm xúc)</li>
+                    <li>cơ thể tư tưởng</li>
+                    <li>cơ thể ý chí</li>
+                    <li>cơ thể Buddhi</li>
+                    <li>cơ thể Atman</li>
+                </ol>
+                <p id="f2">
+                    <sup>2</sup>Nadi (tiếng Phạn) là mạch khí trong người.  Ba nadi quan trọng nhất trong cơ thể là Sushumna, Ida, và Pingala.  Sushumna ở trung tâm; Ida và Pingala xoắn quanh Sushumna như hai con rắn.
+                </p>
+                <p id="f3">
+                    <sup>3</sup>Có hai sách Kundalini Yoga, cùng tên nhưng khác tác giả.
+                </p>
+
+            </div>
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

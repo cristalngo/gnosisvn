@@ -1,0 +1,25 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/include.html" -->
+</head>
+<body>
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!--- contact ---->
+    <div class="contact" id="contact">
+        <div class="container">
+            <h3 class="animated wow fadeInDown animated" data-wow-duration="1200ms" data-wow-delay="500ms">LIÊN HỆ VỚI GnosisVN</h3>
+            <p class="animated wow fadeInDown animated" data-wow-duration="1200ms" data-wow-delay="500ms">Nếu bạn có thắc mắc hoặc muốn tự nguyện tham gia xây dựng nội dung cho GnosisVN, xin liên hệ với chúng tôi theo địa chỉ sau: <a href="mailto:cristalngo@gmail.com">gnosisVN@gmail.com </a></p>
+            
+        </div>
+    </div>
+    <!--- contact ---->	
+    <!--#include virtual="/Shared/footer.html" -->     
+</body>
+</html>

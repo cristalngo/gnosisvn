@@ -1,0 +1,29 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>ALCHEMY - THUẬT LUYỆN KIM</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 7th June 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Alchemy (thuật luyện kim) là môn khí công cổ đại.  Ngày xưa, người ta viết về thuật luyện kim để giấu các phương pháp tập.  Rất nhiều người đã phí thời gian nghiên cứu về thuật luyện kim vật chất sau khi đọc công thức bí ẩn trong sách về thuật luyện kim.  Một số công thức trong sách cổ đại thật sự có liên quan đến việc luyện kim loại vật chất.  Tuy nhiên, trong sách này, từ Alchemy, dùng để nói việc tu luyện.  Do đó, chỗ nào nói về Luyện Kim nên hiểu theo ý nghĩa khí công.
+                </p>
+                
+            </div>
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

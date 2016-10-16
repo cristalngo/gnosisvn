@@ -1,0 +1,56 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>TRẠNG THÁI JINN</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 3<sup>rd</sup> October 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Trong những năm cuối của thế kỷ 19, Henri Poincaré phát triển ý tưởng về không gian và hình học.  Ông nói rằng khoa học không thể chứng minh rằng không gian chỉ có ba chiều. Theo đó, ông đề xuất tìm hiểu về chiều thứ 4.  Sau khi các nhà vật lý học chấp nhận giả thuyết tương đối của Einstein thì chiều thứ tư của không gian vật chất được định nghĩa là “thời gian".  Tuy nhiên, trước sự ra đời của giả thuyết tương đối, Helena Blavatsky đã lấy ý tưởng không gian bốn chiều của Poincaré để mô tả cho hiện tượng mà các nhà tâm linh học Ả-Rập gọi là trạng thái Jinn.  Khái niệm “chiều thứ tư” trong sách của thầy Samael Aun Weor được hiểu theo ý của Blavatsky và Poincaré.
+
+                </p>
+                <p>
+                    Từ Jinn là tiếng Ả - Rập.  Nghĩa đenlà “ẩn hình."  Trạng thái Jinn là trạng thái của vật thể được hình thành khi chuyển vào chiều thứ tư của không gian.
+
+                  
+
+                </p>
+                <blockquote>
+                    <p>
+                        Một vật thể ở trong trạng thái “Jinn" có thể bay lơ lửng trong không trung (Tiếng Phạn: Laghima) hoặc lặn xuống nước (Prakamya), hoặc đi qua lửa mà  không bị đốt cháy.  Vật thể đó có thể thu nhỏ tới cỡ của một hạt nguyên tử (Anima) hoặc phóng to cho đến khi chạm tới mặt trăng hay mặt trời (Mahima).  Một vật thể khi nhập xuống các cõi ẩn phải theo luật vật lý của các cõi đó.  Khi đó, vật thể đó trở nên linh hoạt dẻo dai, có khả năng biến hình, giảm trọng (Laghima) hay tăng trọng (Garima) tuỳ ý.  Khi Chúa Giê-su đi trên mặt nước ở Biển Galilee, ngài để cơ thể mình ở trong trạng thái “Jinn".  Thánh Peter cũng dùng trạng thái Jinn để gỡ bỏ xiềng xích và thoát ra khỏi nhà tù, nhờ sự giúp đỡ của một thiên thần đã giúp ngài đưa cơ thể mình vào trạng thái “Jinn”. (Samael Aun Weor - The Acquarian Message)
+                    </p>
+                </blockquote>
+                <p>
+                    <img src="../../images/Glossary/J/Jinn/Jinn1.jpg" class="img-responsive-center" width="500" />
+                    <label class="tex-center">
+                        Chúa Giê-su đi trên mặt nước
+                    </label>
+                </p>
+                <p>
+                    <img src="../../images/Glossary/J/Jinn/Jinn2.jpg" class="img-responsive-center" width="500" />
+                    <label class="tex-center">
+                        Bồ Đề Đạt Ma Sư Tổ vượt biển
+                    </label>
+                </p>
+
+
+
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

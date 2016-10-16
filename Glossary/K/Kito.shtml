@@ -1,0 +1,40 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>KITÔ</h1>
+                <h5>9th September 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Kitô hoặc Ki-ri-xi-tô, là phiên âm tiếng Việt của từ tiếng Hy Lạp, Χριστός.  Phát âm chính xác hơn là Kris-tos.
+                    </p>
+                <p>
+                    Trong tiếng Hy Lạp, từ này là phiên dịch của từ מָשִׁיחַ (Me-si-akh), có nguồn gốc từ tiếng Do Thái.  Nghĩa đen của từ me-si-akh là “người được xức dầu".  Lễ xức dầu vào đỉnh đầu được thực hiện với một vị hoàng tử trước khi đăng quang hoặc với đệ tử của một nhà tiên tri khi được truyền pháp để đi dạy.  Lễ xức dầu tượng trưng cho khí lực lên cột sống tới não, rồi chảy xuống các mạch trong cơ thể và mở các luân xa.
+                    </p>
+                <p>
+                    Từ Kitô còn có nghĩa là năng lực dương trong vũ trụ. Vì chúa Giê-su đã hiện thân năng lực này khi đạt được lễ thụ pháp Venus ở sông Jordan, cho nên tín đồ Kitô giáo gọi chúa Giê-su bằng "Kitô".  Thế nhưng chúa Giê-su không phải là người duy nhất đã hiện thân được năng lực mặt trời mà chúng ta gọi là Kitô.  Có rất nhiều người khác cũng đã hiện thân năng lực này ví dụ như Phật Tích Ca Mâu Ni. 
+                </p>
+                <img src="/images/Glossary/K/kito.jpg" class="img-responsive-center" width="450" />
+                <br />
+                <label class="tex-center">
+                    Chúa Giê-su hiện thân Kitô sau khi được thánh Giang làm lễ báp tem ở sông Jordan
+                </label>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

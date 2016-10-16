@@ -1,0 +1,55 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>EGO LÀ GÌ</h1>
+                <h5><a href="../index.shtml">Phụ lục</a>, 5th June 2016</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Ego theo tiếng Latin có nghĩa là "Tôi", tương tự như tiếng Hy Lạp: Εγώ.
+                    Từ ego được dùng để chỉ những cấu trúc trong tâm là nguồn gốc ham muốn, lo sợ, tức giận, lười biếng, dục vọng, tham lam, và ích kỷ. Ego là gốc của khái nhiệm về cái “tôi" độc lập. Chúng ta liên tục cảm nhận các hoạt động của ego ở trong suy nghĩ. Khi nào đói, chúng ta nghĩ: “tôi đói”. Khi tức giận, cảm giác của ta không phải là “sự nóng giận đang hiển hiện lên trong tâm tôi” mà là “tôi đang giận".  Tại sao khi tức lên, chúng ta thấy như cả bản chất con người ta đang giận, như tất cả con người mình đã biến thành cảm giác tức giận ấy.  Cứ xem ở trong người mình có cái gì đang tức giận, đang tham lam, hoặc đang lo sợ, đấy chính là ego.
+
+
+                </p>
+                <p>
+                    Phật giáo nhấn mạnh việc này: cái tôi bấn loạn như vậy chính là ảo giác.  Chúng ta càng hiểu rõ việc này thì càng ít bị ego lừa dối.  Mặc dù ego là ảo giác nhưng nó vẫn có thật.  Ego được gọi là ảo giác vì nó lừa dối mình. Ego không phải là bản ngã, không phải là bản chất đích thực của con người. Thế nhưng ta lúc nào cũng cảm thấy như <b>tôi</b> đang giận, <b>tôi</b> đang buồn, <b>tôi</b> đang sợ.  Tức là chúng ta đang bị nhầm lẫn ego và bản ngã.  Nói cụ thể hơn thì ego là cạm bẫy nhốt chặt Tâm Thức (bản thể, bản ngã, tự ngã) của mình. Khi nào chúng ta tức giận, ego lấy năng lực từ bản ngã. Chính vì vậy mà ta thấy như cái “tôi" đang tức giận, cảm giác tức giận đang sống và đang hoạt động bằng năng lực của bản ngã.
+                </p>
+                <p>
+                    Ego chiếm trung bình khoảng 97% bản ngã trong mỗi con người. Chỉ còn lại mỗi 3% là tâm thức tự do. Chính vì vậy mà Phật tử hay dùng từ "Bản Ngã" đề nói về Ego. Mặc dù ta cảm nhận cái tôi của mình như là Ego, nhưng sự thực thì Ego là một cạm bẫy nhốt chặt Bản ngã đích thực của ta. Tức là Bản Ngã thật bị mắc kẹt ở trong Ego.
+
+                </p>
+                <blockquote>
+                    <p>
+                        Nếu [mỗi con người] chỉ có mười phần trăm tâm thức tự do thì không thể xảy ra chiến tranh trên trái đất. (<a href="http://gnosticteachings.org/books-by-samael-aun-weor/the-mystery-of-the-golden-blossom/911-the-seminal-pearl.html">Bí Ẩn Bông Hoa Vàng</a>)
+                    </p>
+                </blockquote>
+
+                <img src="../../images/Glossary/E/ego/ego1.jpg" class="img-responsive-center" width="500" /><br />
+                <label class="tex-center">
+                    Thần Vajrayogini đeo vòng cổ làm bằng sọ của những ego mà nữ thần đã giết thành công.  (Mật tông)
+                </label>
+                <hr />
+                <p>
+                    <b>Ghi chú: </b> *Trong tôn giáo, tâm linh học và thiền học, từ Ego được dùng theo nghĩa hoàn toàn khác so với trong thuyết "phân tâm học" của Freud vào thế kỷ 19.
+
+                </p>
+
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

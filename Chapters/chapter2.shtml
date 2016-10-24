@@ -168,6 +168,6 @@
         </div>
     </div>
     <!----------------Content-->
-    <!--#include virtual="./Shared/footer.html" -->
+    <!--#include virtual="/Shared/footer.html" -->
 </body>
 </html>

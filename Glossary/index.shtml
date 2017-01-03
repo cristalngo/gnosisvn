@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE HTML>
 <html>
-<head>  
+<head>
     <!--#include virtual="/Shared/subInclude.html" -->
 
 </head>
@@ -11,7 +11,7 @@
     <div class="about">
         <div class="container ">
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
-                <h3>PHỤ LỤC</h3>
+                <h3>TỪ ĐIỂN GNOSIS</h3>
                 <hr />
                 <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
                     <h3>A</h3>
@@ -29,7 +29,7 @@
                     <li class="list-unstyled"><a href="B/bay-coi-vu-tru-lon.shtml">Bảy không gian vũ trụ lớn</a></li>
                     <li class="list-unstyled"><a href="B/BonDrukpa.shtml">Trường phái Bon và Drukpa</a></li>
                     <li class="list-unstyled"><a href="B/Brahmadanda-Brahmanadi-Brahman.shtml">Brahmadanda,  Brahmanadi, và Dây Mạch Brahman</a></li>
-                    
+
                 </ul>
             </div>
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
@@ -38,9 +38,9 @@
                 </div>
                 <ul class="list-group">
                     <li class="list-unstyled"><a href="Đ/Đại-bạch-hội-quán.shtml">Bạch Đại Hội Quán</a></li>
-                    <li class="list-unstyled"><a href="Đ/Đmtt.shtml">Đức Mẹ Thần Thánh</a></li>          
-                    <li class="list-unstyled"><a href="Đ/duc-thanh-linh.shtml">Đức Thánh Linh</a></li>          
-                </ul>                
+                    <li class="list-unstyled"><a href="Đ/Đmtt.shtml">Đức Mẹ Thần Thánh</a></li>
+                    <li class="list-unstyled"><a href="Đ/duc-thanh-linh.shtml">Đức Thánh Linh</a></li>
+                </ul>
 
             </div>
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">

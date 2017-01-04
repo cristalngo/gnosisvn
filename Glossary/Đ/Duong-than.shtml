@@ -1,0 +1,47 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>DƯƠNG THÂN</h1>
+                <h5><a href="../index.shtml">Từ điển Gnosis</a>, 4th Jan 2017</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                  Con người sinh ra là để phát triển tâm linh.  Phép Luyện Kim gọi việc này là Công Trình Vĩ Đại.  Trường phái Gnosis của thầy Samael Aun Weor chia Công Trình Vĩ Đại ra ba bước, gọi là “Tam Sơn”. Tam Sơn của Gnosis bao gồm:
+
+
+
+
+
+Ngoài cơ thể vật chất, con người cũng có cơ thể trên cõi tinh tú, cõi tư tưởng, và cõi ý chí nữa. Trong ba cơ thể này, cơ thể tinh tú là dễ hiểu nhất.  Cơ thể tinh tú là cơ thể chúng ta dùng trong giấc mơ.  Xem trang này để đọc thêm về cơ thể tinh tú. Mỗi người chúng ta còn  có cơ thể ở những cõi cao hơn thế nữa, nhưng trong bài viết này chúng ta sẽ chỉ đề cập đến ba cơ thể đó.  Loại trừ một số trường hợp rất đặc biệt, con người sinh ra với cơ thể tinh tú âm, cơ thể tư tưởng âm, và cơ thể ý chí âm.
+
+                </p>
+
+                <ol>
+                    <li class="list-unstyled">Sinh ra và phát triển dương thân</li>
+                    <li class="list-unstyled"><a>Giết ego</a></li>
+                    <li class="list-unstyled">Hy sinh cho nhân loại. (Làm việc để giúp người khác thoát khỏi đau khổ.)</li>
+                </ol>
+                <blockquote>
+                    <p>
+                        “Ngọn lửa của Đức Chúa Thánh Linh, được đạo Bà La Môn gọi là Kundalini, là con rắn lửa màu nhiệm của chúng ta.” <i>(Samael Aun Weor - Hôn Nhân Hoàn Hảo)</i>
+                    </p>
+                </blockquote>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

@@ -1437,12 +1437,13 @@ ol ol {
 }
 .list-unstyled {
   padding-left: 0;
-  list-style: circle;
+  list-style: none;
 }
 .list-inline {
   padding-left: 0;
   margin-left: -5px;
-  list-style: none;
+  list-style: square;
+  font-size: normal;
 }
 .list-inline > li {
   display: inline-block;

@@ -1437,7 +1437,7 @@ ol ol {
 }
 .list-unstyled {
   padding-left: 0;
-  list-style: none;
+  list-style: circle;
 }
 .list-inline {
   padding-left: 0;
@@ -1501,7 +1501,7 @@ blockquote footer,
 blockquote small,
 blockquote .small {
   display: block;
-  
+
   line-height: 1.42857143;
   color: #777;
 }

@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>TRUNG TÂM CẢM XÚC CAO CẤP</h1>
+                <h5><a href="../index.shtml">Từ điển Gnosis</a>, 4th Jan 2017</h5>
+
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                  Con người có bảy trung tâm xử lý khí lực trong cơ thể:
+                </p>
+                <ol>
+                  <li>Trung Tâm Trí Tuệ Cao Cấp</li>
+                  <li>Trung Tâm Trí Tuệ Hạ Cấp</li>
+                  <li>Trung Tâm Cảm Xúc Cao Cấp</li>
+                  <li>Trung Tâm Cảm Xúc Hạ Cấp</li>
+                  <li>Trung Tâm Vận Động</li>
+                  <li>Trung Tâm Bản Năng</li>
+                  <li>Trung Tâm Sinh Dục</li>
+                </ol>
+                <i>(...Còn nữa. Trang này đang trong quá trình được viết)</i>
+            </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

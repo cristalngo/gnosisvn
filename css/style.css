@@ -225,7 +225,7 @@ label {
         margin: .1em;
     }
 
-    .about p, .three-steps p, .work p, .services p, .team p, .contact p, .news-1 p {
+    .about p, .three-steps p, .work p, .services p, .team p, .contact p, .news-1 p, .about li {
         font-size: 1.2em;
         font-weight: 100;
         color: #000000;
@@ -1014,7 +1014,7 @@ i.glyphicon.glyphicon-calendar {
 /*-- responsive-design --*/
 @media (max-width: 1024px) {
     .nav > li > a {
-        font-size: 1.5em;
+        font-size: 1.1em;
         padding: 30px 10px !important;
     }
     .view {

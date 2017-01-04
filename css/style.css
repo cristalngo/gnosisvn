@@ -225,13 +225,20 @@ label {
         margin: .1em;
     }
 
-    .about p, .three-steps p, .work p, .services p, .team p, .contact p, .news-1 p, .about li {
+    .about p, .three-steps p, .work p, .services p, .team p, .contact p, .news-1 p{
         font-size: 1.2em;
         font-weight: 100;
         color: #000000;
         margin: 1em 0;
         margin-bottom: 1em;
         line-height: 1.8em;
+    }
+
+   .about li {
+        font-size: 1.2em;
+        font-weight: 100;
+        color: #000000;
+        margin: 1em 0;
     }
 
 .team p {

@@ -34,10 +34,20 @@
             </div>
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
                 <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>C</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="C/Co-the-tinh-tu.shtml">Cơ Thể Tinh Tú và Yoga Giấc Mơ</a></li>
+                
+                </ul>
+
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
                     <h3>D/Đ</h3>
                 </div>
                 <ul class="list-group">
-                    <li class="list-unstyled"><a href="Đ/Duong-than">Dương Thân</a></li>
+                    <li class="list-unstyled"><a href="Đ/Duong-than.shtml">Dương Thân</a></li>
                     <li class="list-unstyled"><a href="Đ/Đại-bạch-hội-quán.shtml">Bạch Đại Hội Quán</a></li>
                     <li class="list-unstyled"><a href="Đ/Đmtt.shtml">Đức Mẹ Thần Thánh</a></li>
                     <li class="list-unstyled"><a href="Đ/duc-thanh-linh.shtml">Đức Thánh Linh</a></li>
@@ -49,9 +59,10 @@
                     <h3>E/Ê</h3>
                 </div>
                 <ul class="list-group">
-                    <li class="list-unstyled"><a href="E/ego.shtml">Ego là gì</a></li>
-                    <li class="list-unstyled"><a href="E/elohim.shtml">Elohim</a></li>
+                    <li class="list-unstyled"><a href="E/ego.shtml">Ego là gì?</a></li>
                     <li class="list-unstyled"><a href="E/Giet-ego.shtml">Làm thế nào để giết ego?</a></li>
+                    <li class="list-unstyled"><a href="E/elohim.shtml">Elohim</a></li>
+
                 </ul>
             </div>
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">

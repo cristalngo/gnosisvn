@@ -1,0 +1,32 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>CƠ THỂ TINH TÚ</h1>
+                <h5><a href="../index.shtml">Từ điển Gnosis</a>, 4th Jan 2017</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                  Cơ thể tinh tú là cơ thể của chúng ta trong giấc mơ. Cơ thể tinh tú đêm nào cũng xuất ra khỏi cơ thể vật chất nhưng vì chúng ta thường không để ý đến giấc mơ cho nên chúng ta không biết.
+                </p>
+
+
+                <i>(...Còn nữa. Trang này đang trong quá trình được viết)</i>
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

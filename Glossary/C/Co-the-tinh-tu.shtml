@@ -23,9 +23,9 @@
 
                 <i>(...Còn nữa. Trang này đang trong quá trình được viết)</i>
             </div>
-
+            <!--#include virtual="Co-the-tinh-tu-fn.shtml" -->
         </div>
-        <!--#include virtual="Co-the-tinh-tu-fn.shtml" -->
+
     </div>
 
     <!----------------Content-->

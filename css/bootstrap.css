@@ -1434,6 +1434,7 @@ ol ul,
 ul ol,
 ol ol {
   margin-bottom: 0;
+    font-size: 100%;
 }
 .list-unstyled {
   padding-left: 0;
@@ -1443,7 +1444,7 @@ ol ol {
   padding-left: 0;
   margin-left: -5px;
   list-style: square;
-  font-size: normal;
+
 }
 .list-inline > li {
   display: inline-block;

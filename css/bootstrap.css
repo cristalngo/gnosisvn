@@ -1324,6 +1324,13 @@ p {
   font-weight: 300;
   line-height: 1.4;
 }
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-bottom: 0;
+    font-size: 100%;
+}
 @media (min-width: 768px) {
   .lead {
     font-size: 21px;

@@ -193,7 +193,7 @@ ol ul,
 ul ol,
 ol ol {
   margin-bottom: 0;
-    font-size: 100%;
+    font-size: 2em;
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {

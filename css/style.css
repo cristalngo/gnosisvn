@@ -1014,7 +1014,7 @@ i.glyphicon.glyphicon-calendar {
 /*-- responsive-design --*/
 @media (max-width: 1024px) {
     .nav > li > a {
-        font-size: 100%;
+        font-size: 1.5em;
         padding: 30px 10px !important;
     }
     .view {

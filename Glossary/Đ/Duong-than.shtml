@@ -62,4 +62,7 @@
               </blockquote>
             </div>
               <!--#include virtual="/Glossary/C/Co-the-tinh-tu-fn.shtml" -->
+              <!----------------Content-->
+              <!--#include virtual="/Shared/footer.html" -->
+      </body>
 </html>

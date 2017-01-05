@@ -17,8 +17,10 @@
                     <h3>A</h3>
                 </div>
                 <ul class="list-group">
+                  <li class="list-unstyled"><a href="A/alchemy.shtml">Alchemy</a></li>
+                  <li class="list-unstyled"><a href="A/Anagarika.shtml">Anagarika</a></li>
                     <li class="list-unstyled"><a href="A/arcanum.shtml">Arcanum</a></li>
-                    <li class="list-unstyled"><a href="A/alchemy.shtml">Alchemy</a></li>
+
                 </ul>
             </div>
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
@@ -42,7 +44,7 @@
                 </ul>
 
             </div>
-            
+
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
                 <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
                     <h3>D</h3>
@@ -52,7 +54,7 @@
                 </ul>
 
             </div>
-            
+
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
                 <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
                     <h3>Đ</h3>

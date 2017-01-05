@@ -80,6 +80,14 @@
             </div>
             <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
                 <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>H</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="H/Hai-nhan-chung-tan-the.shtml">Hai Nhân Chứng Tận Thế</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
                     <h3>J</h3>
                 </div>
                 <ul class="list-group">

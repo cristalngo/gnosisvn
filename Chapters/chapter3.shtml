@@ -338,8 +338,9 @@
                 </p>
                 <img src="/images/Ch3/Ida-pingala.jpg" alt="" class="img-responsive-center" width="500">
                 <label class="tex-center">Hai đường mạch Ida và Pingala</label>
+                <br>
                 <img src="/images/Ch3/Hermes.jpg" alt="" class="img-responsive-center" width="500">
-                <label class="tex-center">Thần Hermes cầm cây gậy CaduceusCaduceus tượng trinh cho hai đường mach quấn quanh ống tuỷ sông</label>
+                <label class="tex-center">Thần Hermes cầm cây gậy CaduceusCaduceus tượng trưng cho <br> hai đường mach quấn quanh ống tuỷ sông</label>
             </div>
             <!--#include virtual="/Chapters/chapter3-fn.shtml" -->
 

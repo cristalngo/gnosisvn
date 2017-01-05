@@ -120,6 +120,15 @@
                     <li class="list-unstyled"><a href="T/Tu-truong-goc-mui.shtml">Từ trường gốc mũi</a></li>
                 </ul>
             </div>
+            <div class="col-md-8 wow fadeInLeft animated" data-wow-delay=".5s">
+                <div class="logo wow fadeInRight animated" data-wow-delay=".5s">
+                    <h3>V</h3>
+                </div>
+                <ul class="list-group">
+                    <li class="list-unstyled"><a href="V/Vajroli-mudra">Thể Ấn (Mudra) Vajroli</a></li>
+
+                </ul>
+            </div>
         </div>
     </div>
     <!----------------Content-->

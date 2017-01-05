@@ -1,0 +1,60 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>HAI NHÂN CHỨNG TẬN THẾ</h1>
+                <h5><a href="../index.shtml">Từ điển Gnosis</a>, 5th Jan 2017</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+
+                <p>
+                  <i>(Kinh Thánh, Khải Huyền 11:1-14)<i><br>
+
+                  Ðoạn tôi được cho một cây thước đo, giống như một cây gậy, và được bảo rằng, “Hãy đứng dậy và đo <a href="#f1" class="scroll">đền thờ Ðức Chúa Trời<sup>1</sup></a>, bàn thờ, và những vật dùng để thờ phụng Ngài trong đó, nhưng hãy chừa sân ngoài của đền thờ, đừng đo nó, vì nó đã được ban cho các dân ngoại, và họ sẽ giày đạp thành thánh trong bốn mươi hai tháng. Ta sẽ cho <a href="#f2" class="scroll">hai nhân chứng<sup>2</sup></a> của Ta, mặc vải gai, nói tiên tri trong một ngàn hai trăm sáu mươi ngày.” Ðó là hai cây ô-liu và hai cây đèn đứng trước mặt Chúa của thế gian. Nếu ai muốn làm hại họ, lửa từ miệng họ phun ra sẽ thiêu trụi kẻ thù của họ. Nếu ai muốn làm hại họ, kẻ ấy sẽ bị giết như thế. Hai vị ấy có quyền đóng cửa trời để mưa không rơi xuống đất trong những ngày họ nói tiên tri, và họ có quyền biến nước thành máu và đánh phạt trái đất bằng mọi thứ tai họa, bất cứ lúc nào họ muốn.
+                </p>
+                <p>
+
+                  Khi họ hoàn thành sứ mạng làm chứng của mình, một con thú từ vực thẳm đi lên sẽ tấn công họ, đánh bại họ, và giết họ. Thi thể họ sẽ bị phơi bày trên đường của thành vĩ đại mà phương diện thuộc linh gọi là Sô-đôm và Ai-cập, nơi Chúa của họ đã chịu đóng đinh. Người ta từ các dân tộc, các bộ lạc, các ngôn ngữ, và các quốc gia sẽ nhìn thấy thi thể của họ trong ba ngày rưỡi; và chúng không cho đem thi thể của họ chôn trong mộ. Những người sống trên đất sẽ vui mừng về cái chết của họ, người ta sẽ ăn mừng và tặng quà cho nhau, vì hai vị tiên tri ấy đã làm khổ những người sống trên đất.
+                </p>
+                <p>
+
+                  Nhưng sau ba ngày rưỡi, sinh khí từ Ðức Chúa Trời nhập vào họ, khiến họ đứng dậy trên chân mình. Bấy giờ những kẻ đang nhìn xem họ đều cực kỳ sợ hãi. Họ nghe một tiếng lớn từ trời gọi họ rằng, “Hãy lên đây!” Bấy giờ họ được cất lên trời trong đám mây, giữa lúc những kẻ thù của họ đang nhìn theo. Ngay giờ đó một trận động đất lớn xảy ra; một phần mười của thành phố bị sụp đổ, và bảy ngàn người bị chết vì trận động đất ấy; những người sống sót đều cực kỳ sợ hãi, và dâng vinh hiển lên Ðức Chúa Trời trên trời.
+                <p/>
+                <p>
+                  Cơn khốn thứ nhì đã qua; kìa, cơn khốn thứ ba đang đến cách mau chóng.
+
+                </p>
+                <hr />
+                <p>
+                    <b>Ghi chú: </b>
+
+                </p>
+
+                <p id="f1">
+                  <sup>1</sup> “Đền thờ” tượng trưng cho con người. Việc “đo đền thờ” tượng trưng cho việc đánh giá mức độ tu tập của một người.
+                </p>
+                <p id="f2">
+                  <sup>2</sup> “Hai nhân chứng” tượng trưng cho hai đường mạch Ida và Pingala.<br>
+                  Trong người đàn ông, Ida bắt đầu từ tinh hoàn phải [đi lên đến lỗ mũi trái] và Pingala bắt đầu từ tinh hoàn trái [đi lên đến lỗ mũi phải].  Trong người phụ nữ, Ida và Pingala đi lên từ hai buồng trứng [nhưng đảo ngược thứ tự trái/phải so với cơ thể đàn ông]. Hai đường mạch này, Ida và Pingala, chính là hai cây ô-liu (ở cửa đền thờ), là hai cây nến hiện diện trước mặt Chúa trái đất [trái đất tượng trưng cho cơ thể con người].  Đây chính là hai nhân chứng. (Kundalini Yoga, Samael Aun Weor)<br>
+                  *<i>Phần giải thích trong ngoặc vuông được thêm vào bởi dịch giả.</i>
+
+                </p>
+
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>

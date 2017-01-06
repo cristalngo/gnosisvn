@@ -1455,8 +1455,7 @@ ol ol {
 
 }
 .list-inline > li {
-  padding-left: 0;
-  margin-left: -5px;
+  padding-left: 5px;
   list-style: square;
 }
 dl {

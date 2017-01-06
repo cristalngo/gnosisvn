@@ -380,9 +380,6 @@
                 Đừng bị cám dỗ bởi những giáo lý siêu phàm, khuyến khích việc xuất tinh; bởi vì đó chính là phép thuật đen. Vua của các nguyên tử độc ác luôn chờ đợi ở xương cụt chỉ trực có cơ hội để thức tỉnh con rắn theo hướng tiêu cực, để đưa nó đi xuống. Khi xuất tinh, vị thần nguyên tử đen được nạp một xung điện dữ dội, đủ để đánh thức con rắn và hướng nó xuống địa ngục nguyên tử trong người. Bằng cách này, con người trở thành quỉ dữ và rơi xuống vực thẳm Địa Ngục.
               </p>
             </div>
-
-            <!--#include virtual="/Chapters/chapter3-fn.shtml" -->
-
             <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
                 <p class="tex-right">
                     <a href="../content2.shtml">Nội dung </a><b>></b>
@@ -393,6 +390,10 @@
 
                 </p>
             </div>
+
+            <!--#include virtual="/Chapters/chapter3-fn.shtml" -->
+
+
         </div>
     </div>
     <!----------------Content-->

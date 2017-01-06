@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!--#include virtual="/Shared/subInclude2.html" -->
+
+</head>
+<body>
+
+    <!--#include virtual="/Shared/subHeader.html" -->
+    <!----------------Content-->
+    <div class="about">
+        <div class="container ">
+
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <h1>BẢN THỂ, BẢN NGÃ, TỰ NGÃ</h1>
+                <h5><a href="../index.shtml">Từ điển Gnosis</a>, 6th Jan 2017</h5>
+            </div>
+            <div class="col-md-9 wow fadeInLeft animated" data-wow-delay=".5s">
+                <p>
+                    Atman (tiếng Phạn), được dịch sang tiếng Việt là “bản ngã”, “tự ngã”, hoặc “bản thể” là một khái niệm quan trọng trong đạo Bà La Môn. Dưới đây là định nghĩ của từ này:
+                </p>
+                <blockquote>
+                  <p>
+
+                    Tự ngã Atman là một thực thể nội tại trong mỗi cá nhân. Hơi thở là nguồn sống vật chất thì Atman là hơi thở siêu nhiên, là nguồn sống thiêng liêng. Atman là thực thể làm cho con nguời vượt lên trên vạn vật. Có thể nói Atman là thành phần của Brahman [Bà La Môn]  trong con người. Brahman là cái ngã vũ trụ đại đồng, còn Atman là cái ngã cá nhân. Braman chỉ có một, Atman là số nhiều, nhưng cái nhiều ấy chỉ là giả tưởng vì bản chất cả hai chỉ là một. Cho rằng khi thân xác chết thì Tự ngã (Atman) lại trở về hợp nhất với Đại ngã (Brahman).
+                  </p>
+                  <p>
+                    Tự ngã Atman không phải là lý trí, tình cảm và giác quan, nhưng Atman là nguồn cội của các sinh hoạt tinh thần ấy. Không có Atman, tất cả sinh hoạt tinh thần và thể chất đều chấm dứt. Nhưng ngay khi cả sinh hoạt tinh thần và thể chất chấm dứt thì Atman vẫn tồn tại bất diệt. Với nhiều nỗ lực, nhưng Upanishad cũng không thể nói rõ về Atman, cho nên luôn cảnh giác rằng tự ngã không thể hiểu được, tự ngã phải cần được thực hiện. Katha Upanishad nói: “Atman không thể nhận biết được bởi sức mạnh của trí óc, cũng không thể nhận biết được bởi giác quan”.
+                    <br>
+                    <i>(<a href="http://thuvienhoasen.org/a9442/triet-hoc-ba-la-mon-brahmanism-giang-vien-thich-le-tho">Thích Lệ Thọ - Tu Viện Hoa Sen</a>)</i>
+                  </blockquote>
+                  <p>
+
+                    Trong quá trình tu tập đạo Bà La Môn, một môn đệ phải tập cách dừng lại các hoạt động sơ cấp của tâm (tiếng Phạn: Vritti) để thấy được bản ngã (Atman) thật.  Chú ý rằng Atman không phải là chân lý cao nhất trong đạo Bà La Môn; chân lý cao nhất là Brahman (Bà La Môn), bằng nghĩa với Tính Không (tiếng phạn: Sunyata) của Phật giáo.
+                </p>
+
+
+            </div>
+
+        </div>
+    </div>
+    <!----------------Content-->
+    <!--#include virtual="/Shared/footer.html" -->
+</body>
+</html>
